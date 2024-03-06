@@ -1,0 +1,16 @@
+@media (max-width: 960px) {
+  .bitcoin-body {
+    display: grid;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .advertise {
+    width: 100%;
+  }
+  .adv-width {
+    width: 66.6667%;
+  }
+}
+.bitcoin-body {
+  width: 100%;
+}

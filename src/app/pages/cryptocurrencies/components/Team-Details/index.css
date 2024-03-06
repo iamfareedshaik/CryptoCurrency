@@ -1,0 +1,39 @@
+@media (max-width: 1000px) {
+  .full-width {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  img {
+    width: 2rem;
+    max-width: max-content;
+  }
+  .full-width-inner {
+    width: 100%;
+    display: block;
+  }
+}
+
+@media (max-width: 1200px) {
+  .full-width {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  img {
+    width: 2rem;
+    max-width: max-content;
+  }
+  .full-width-inner {
+    width: 100%;
+    display: block;
+  }
+}
+
+.full-width {
+  display: grid;
+}
+
+.full-width-inner {
+  display: grid;
+}

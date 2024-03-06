@@ -1,0 +1,14 @@
+.p-menubar {
+  justify-content: space-between;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: white;
+}
+.p-button {
+  background-color: #3b3ff4!;
+}
+.navbar-fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}

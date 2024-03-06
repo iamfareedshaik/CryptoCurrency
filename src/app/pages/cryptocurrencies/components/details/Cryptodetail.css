@@ -1,0 +1,41 @@
+.horizontal-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.p-datatable .p-datatable-thead > tr > th {
+  display: none;
+}
+.p-tabview-nav-link {
+  background-color: #e5e7eb;
+}
+.p-tabview-nav {
+  background-color: #e5e7eb;
+}
+.p-unselectable-text {
+  background-color: #e5e7eb;
+}
+.p-tabview-panels {
+  background-color: #e5e7eb;
+  padding: 0;
+  padding-top: 1.25rem;
+}
+.p-tabview .p-tabview-nav {
+  background: #e5e7eb;
+  border: 1px solid #dcdfe4;
+  border-width: 0 0 2px 0;
+}
+.horizontal-row-datatable {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 960px) {
+  .horizontal-row-datatable {
+    display: grid;
+    margin-right: 0px;
+  }
+}

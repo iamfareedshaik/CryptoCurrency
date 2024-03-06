@@ -1,0 +1,23 @@
+@media (max-width: 1000px) {
+  .grid {
+    display: block !important;
+  }
+  .full-width {
+    display: block;
+    width: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .grid {
+    display: block !important;
+  }
+  .full-width {
+    display: block;
+    width: auto;
+  }
+}
+
+.crypto-body {
+  margin: auto;
+}
